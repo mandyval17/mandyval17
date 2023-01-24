@@ -47,11 +47,6 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/mayur-valecha-1021b0203" target="_blank">
