@@ -40,7 +40,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fpostman-icon%2F&psig=AOvVaw2uAZ43d0kMX8gvwBftCt0O&ust=1674665952866000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjk7PrW4PwCFQAAAAAdAAAAABAE" alt="Postman" height="50" /></a>  
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
