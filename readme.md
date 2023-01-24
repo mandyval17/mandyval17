@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr width="100%"><td valign="top" width="50%">
 
 
 
@@ -31,7 +31,7 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -43,7 +43,8 @@
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td>
+  </tr></table>
 
 
 
